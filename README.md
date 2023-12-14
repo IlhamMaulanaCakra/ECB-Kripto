@@ -6,8 +6,7 @@
 
 ### Input dan Output
 
-Plainteks Hex yang akan dimasukan : A23A9
-Kunci Biner yang akan dimasukan : 1011
+<p>Plainteks Hex yang akan dimasukan : <b>A23A9</b> | Kunci Biner yang akan dimasukan : <b>1011</b></p>
 
 ![Screenshot (151)](https://github.com/IlhamMaulanaCakra/ECB-Kripto/assets/92771347/36d8a8f1-bb35-4db8-93e2-dfe1c5f98c34)
 
